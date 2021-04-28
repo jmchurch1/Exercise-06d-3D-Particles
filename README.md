@@ -97,5 +97,4 @@ None
 None
 
 ## Created by 
-Jason Francis
-```
+Josh Church
